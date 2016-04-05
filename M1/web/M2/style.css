@@ -12,3 +12,19 @@ a:link, a:visited {
     color: #CC66FF;
     background-color: transparent;
 }
+.title{
+    border-color: #880000;
+    background-color: #880000;
+    color: #FFFFFF;
+    font-family: "Times New Roman", Times, serif;
+}
+.dispari{
+    border-color: #880000;
+    border-collapse: collapse;
+    background-color: #FFFF99;
+}
+.dispari{
+    border-color: #880000;
+    border-collapse: collapse;
+    background-color: #CCCCCC;
+}
