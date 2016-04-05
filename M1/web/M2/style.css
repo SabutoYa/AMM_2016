@@ -2,6 +2,7 @@ body{
     background-color: #D3D3D3;
     color: #000000;
     font-family: "Times New Roman", Times, serif;
+    text-align: center;
 }
 h1,h2,h3{
     color: #EE0000;
@@ -12,19 +13,22 @@ a:link, a:visited {
     color: #CC66FF;
     background-color: transparent;
 }
-.title{
-    border-color: #880000;
+table{
+    width: 100%;
+}
+table,tr,th{
+    border-collapse: collapse;
+    border: 3px solid black;
+}
+table .title{
     background-color: #880000;
     color: #FFFFFF;
     font-family: "Times New Roman", Times, serif;
 }
-.dispari{
-    border-color: #880000;
-    border-collapse: collapse;
+tr.pari{
     background-color: #FFFF99;
+    
 }
-.dispari{
-    border-color: #880000;
-    border-collapse: collapse;
-    background-color: #CCCCCC;
+tr.dispari{
+    background-color: #FFFF66;
 }
