@@ -1,0 +1,14 @@
+body{
+    background-color: #D3D3D3;
+    color: #000000;
+    font-family: "Times New Roman", Times, serif;
+}
+h1,h2,h3{
+    color: #EE0000;
+    font-size: 30px;
+}
+a:link, a:visited {
+    text-decoration: underline;
+    color: #CC66FF;
+    background-color: transparent;
+}
