@@ -32,3 +32,14 @@ tr.pari{
 tr.dispari{
     background-color: #FFFF66;
 }
+label {
+    width:100px;
+    display: inline-block;
+    text-align: left;
+}
+input:focus { 
+    border-color: crimson;
+}
+button{
+    width: 100px;
+}
