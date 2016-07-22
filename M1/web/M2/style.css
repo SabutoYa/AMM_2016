@@ -5,6 +5,7 @@ body{
     text-align: center;
 }
 h1,h2,h3{
+    background-color: #D3D3D3;
     color: #EE0000;
     font-size: 30px;
 }
